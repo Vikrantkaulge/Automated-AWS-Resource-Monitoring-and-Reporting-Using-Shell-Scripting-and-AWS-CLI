@@ -50,8 +50,8 @@ This project monitors the usage of AWS resources (EC2, S3, Lambda, IAM users) an
  - aws configure
 - Enter your AWS Access Key ID, Secret Access Key, Default region name, and Default output format (e.g., json or text).
 ## Create a new file using vim:
--vim shellscript.sh 
--Copy the code from the repository and paste it into the shellscript.sh file. Save the file by pressing Esc followed by :wq.
+- vim shellscript.sh 
+- Copy the code from the repository and paste it into the shellscript.sh file. Save the file by pressing Esc followed by :wq.
 ## Check the Output
 The script will generate a report file with the resource usage details (e.g., number of active EC2 instances, IAM users, etc.).
 
