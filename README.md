@@ -1,0 +1,1 @@
+# Automated-AWS-Resource-Monitoring-and-Reporting-Using-Shell-Scripting-and-AWS-CLI
